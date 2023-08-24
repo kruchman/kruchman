@@ -6,9 +6,29 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 ## <p align="center"> Projects 🧑‍💻
 
 - [LaBodega](https://github.com/kruchman/La-Bodega): "A visit card of a cafe in Costa Rica Tamarindo with menus, location and references to youtube and instagram".
+
+<p align="center">
+  <img src="bodegaGif.gif" alt="LaBodega" />
+</p>
+
 - [Guess The Animal](https://github.com/kruchman/Guess-The-Animal): "Simple App for the kids. You need to guess the animal wich appeare on the screen."
+
+  <p align="center">
+  <img src="guessTheAnumalGif.gif" alt="GuessTheAnimal" />
+</p>
+
 - [Goal setter](https://github.com/kruchman/Goal-setter): "Application made using TableViews where you can create and set your goals having a list of them. Short term goals as well as long term goals. To devide long term goals on a little task and to see your progress with a progress bar. Also you can look at the goals you already achieved."
+
+  <p align="center">
+  <img src="goalSetterGif.gif" alt="GoalSetter" />
+</p>
+
 - [Give me joke](https://github.com/kruchman/Give-me-joke): "An application where I am fetching the data (jokes) from the open API web site. Then I add a functionality where you can "like" some joke and save it using Core Data."
+
+  <p align="center">
+  <img src="giveMeJokeGif.gif" alt="LaBodega" />
+</p>
+
 
 ## <p align="center"> Contact me 👍
 
