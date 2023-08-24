@@ -25,5 +25,5 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 </p>
 <p>
   <img src="telegram.png" alt="Telegram" width="20" height="20" />
-  [+79111652326](https://t.me/@kruchmanYu)
+  https://t.me/@kruchmanYu
 </p>
