@@ -1,6 +1,6 @@
 #Hi everybody!
 
-My name is Iurr, Im from Russia, Saint-Petersburg. Commenced independent study of the Swift programming language in October 2022. I pursued learning primarily through books, courses, and a variety of other freely available resources that I could find. Starting from the spring of 2023, I began building my portfolio by creating various small-scale applications using different frameworks. This was aimed at gaining practical experience and reinforcing the knowledge I had acquired. I consistently upload all of my projects to my GitHub repository.
+My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study of the Swift programming language in October 2022. I pursued learning primarily through books, courses, and a variety of other freely available resources that I could find. Starting from the spring of 2023, I began building my portfolio by creating various small-scale applications using different frameworks. This was aimed at gaining practical experience and reinforcing the knowledge I had acquired. I consistently upload all of my projects to my GitHub repository.
 
 ##Projects 
 
@@ -11,7 +11,19 @@ My name is Iurr, Im from Russia, Saint-Petersburg. Commenced independent study o
 
 ##Contact me
 
-- ![Phone number](phone.png) +506 8947 8828
-- ![Mail](mail.png) kruchman@bk.ru, kruchman96@gmail.com
-- ![WhatsApp](WhatsApp.png) +79111652326
-- ![Telegram](telegram.png) https://t.me/@kruchmanYu
+<p>
+  <img src="phone.png" alt="Phone number" width="20" height="20" />
+  +506 8947 8828
+</p>
+<p>
+  <img src="mail.png" alt="Mail" width="20" height="20" />
+  kruchman@bk.ru, kruchman96@gmail.com
+</p>
+<p>
+  <img src="WhatsApp.png" alt="WhatsApp" width="20" height="20" />
+  +79111652326
+</p>
+<p>
+  <img src="telegram.png" alt="Telegram" width="20" height="20" />
+  [+79111652326](https://t.me/@kruchmanYu)
+</p>
