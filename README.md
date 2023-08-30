@@ -26,9 +26,14 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 - [Give me joke](https://github.com/kruchman/Give-me-joke): "An application where I am fetching the data (jokes) from the open API web site. Then I add a functionality where you can "like" some joke and save it using Core Data."
 
   <p align="center">
-  <img src="giveMeJokeGif.gif" alt="LaBodega" />
+  <img src="giveMeJokeGif.gif" alt="Give me joke" />
 </p>
 
+- [Currency]((https://github.com/kruchman/Currency)): "Application wich allowes you to convert any currency related to $, and to make the calculation"
+
+  <p align="center">
+  <img src="CurrencyGif.gif" alt="Currency" />
+</p>
 
 ## <p align="center"> Contact me 👍
 
