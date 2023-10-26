@@ -5,7 +5,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 ## <p align="center"> Projects 🧑‍💻
 
-- [Currency]((https://github.com/kruchman/Currency)): "Application for all the currencies convertation with the actual rate"
+- [Currency](https://github.com/kruchman/Currency): "Application for all the currencies convertation with the actual rate"
 
   <p align="center">
   <img src="Currency.gif2.gif" alt="Currency" />
