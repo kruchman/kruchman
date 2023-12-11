@@ -5,6 +5,12 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 ## <p align="center"> Projects 🧑‍💻
 
+- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "An App for gamers, where you can find another player of your favorite game and play it together"
+
+  <p align="center">
+  <img src="The Gamer App Content/TheGamerApp.gif" alt="TheGamerApp" />
+</p>
+
 - [Currency](https://github.com/kruchman/Currency): "Application for all the currencies convertation with the actual rate"
 
   <p align="center">
