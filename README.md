@@ -7,14 +7,15 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 - [TheGamerApp](https://github.com/kruchman/TheGamerApp): "An App for gamers, where you can find another player of your favorite game and play it together"
 - 
-<p align="leading">
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+<p align="center">
+  <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="300" />
+  <p align="leading">
+    <img src="The Gamer App Content/GameSelection.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/ProfileSetting1.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/ProfileSetting2.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Profile.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/UsersList.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/UsersDetail.png" alt="TheGamerApp" width="300" />
   <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
   <img src="The Gamer App Content/Favorites.png" alt="Favorites" width="300" />
   <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="300" />
