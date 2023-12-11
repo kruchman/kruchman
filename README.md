@@ -8,8 +8,8 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 - [TheGamerApp](https://github.com/kruchman/TheGamerApp): "An App for gamers, where you can find another player of your favorite game and play it together"
 - 
 <p align="leading">
-<img src="The Gamer App Content/Chat.png" alt="TheGamerApp" />
-  </p>
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" height="200" />
+</p>
   
   <p align="center">
   <img src="The Gamer App Content/TheGamerApp.gif" alt="TheGamerApp" />
