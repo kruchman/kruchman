@@ -9,6 +9,13 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 - 
 <p align="leading">
   <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="300" />
   <img src="The Gamer App Content/Favorites.png" alt="Favorites" width="300" />
   <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="300" />
 </p>
