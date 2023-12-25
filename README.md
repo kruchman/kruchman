@@ -5,7 +5,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 ## <p align="center"> Projects 🧑‍💻
 
-- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "Something like a social network for players. The application implements the ability to register and login, chat with sending and receiving messages, the ability to create and edit your profile, as well as see the profiles of other players with the ability to start a new chat with them, as well as add them to favorites"
+- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "Something like a social network for players. The application implements the ability to register and login, chat with sending and receiving messages, the ability to create and edit your profile, as well as see the profiles of other players with the ability to start a new chat with them, as well as add them to favorites. When creating this application I resorted to the use of third-party library Firebase, to such tools as Firebase Auth, Firebase Firestore, Firebase Storage "
 - 
 <p align="center">
   <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="300" />
