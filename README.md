@@ -5,7 +5,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 ## <p align="center"> Projects 🧑‍💻
 
-- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "An App for gamers, where you can find another player of your favorite game and play it together"
+- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "Something like a social network for players. The application implements the ability to register and login, chat with sending and receiving messages, the ability to create and edit your profile, as well as see the profiles of other players with the ability to start a new chat with them, as well as add them to favorites"
 - 
 <p align="center">
   <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="300" />
