@@ -7,7 +7,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
  <p>
   <img src="WhatsApp.png" alt="WhatsApp" width="20" height="20" />
-   # <+79111652326>
+   <strong>+79111652326</strong>
 </p>
 <p>
   <img src="mail.png" alt="Mail" width="20" height="20" />
