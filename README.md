@@ -16,7 +16,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
   <img src="The Gamer App Content/UsersList.png" alt="TheGamerApp" width="90" />
   <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="90" />
   <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="90" />
-  <img src="The Gamer App Content/TheGamerApp.gif" alt="TheGamerApp width="90" height="100" />
+  <img src="The Gamer App Content/TheGamerApp.gif" alt="TheGamerApp width="90" />
 </p>
 
 - [Currency](https://github.com/kruchman/Currency): "Application for all the currencies convertation with the actual rate"
