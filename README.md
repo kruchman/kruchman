@@ -22,9 +22,12 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 ## <p align="center"> Projects 🧑‍💻
 
+- [TheCocktailApp](https://github.com/kruchman/Cocktail-App): "
+The application is developed using the SwiftUI framework and follows the MVVM architecture pattern. It features a list displaying classic cocktails with individual details. Users can navigate to a detailed view for each cocktail to obtain more information. Additionally, users can add cocktails to their "Favorites" list and remove them using Core Data. Firebase Firestore Database is used as the backend database. The application also allows users to create custom cocktails. Custom animations have been implemented to enhance the user experience. For sorting and filtering cocktails, the Combine framework is utilized."
+
 - [TheGamerApp](https://github.com/kruchman/TheGamerApp): "
 SwiftUI, MVVM. This application utilizes a third-party API (Firebase), specifically tools such as FirebaseAuth, Firestore, and FirebaseStorage. Implemented features include: login and password validation, chats, profile creation, editing, and deletion."
-- 
+
   <p align="leading">
      <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="90" />
     <img src="The Gamer App Content/GameSelection.png" alt="TheGamerApp" width="90" />
