@@ -11,7 +11,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 </p>
 <p>
   <img src="mail.png" alt="Mail" width="20" height="20" />
-  <strong>kruchman@bk.ru
+  <strong>kruchman@bk.ru />
   kruchman96@gmail.com</strong>
 </p>
 <p>
