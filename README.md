@@ -28,7 +28,7 @@ The application is developed using the SwiftUI framework and follows the MVVM ar
 <p align="leading">
 <img src="CocktailAppContent/classicCocktailsList.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/detailScreen.png" alt="TheCocktailApp" width="90" />
- <img src="CocktailAppContent/detailScreenSecond.png" alt="TheCocktailApp" width="90" />
+ <img src="CocktailAppContent/detailSecondScreen.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/customCocktailsList.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/customCocktailDetail.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/customCocktailDetailSecond.png" alt="TheCocktailApp" width="90" />
