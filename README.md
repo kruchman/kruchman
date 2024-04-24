@@ -33,6 +33,9 @@ The application is developed using the SwiftUI framework and follows the MVVM ar
  <img src="CocktailAppContent/customCocktailDetail.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/customCocktailDetailSecond.png" alt="TheCocktailApp" width="90" />
 </p>
+<p align="center">
+ <img src="CocktailAppContent/filterAndSortGif.gif" alt="TheCocktailApp" width="90" />
+</p>
 
 - [TheGamerApp](https://github.com/kruchman/TheGamerApp): "
 SwiftUI, MVVM. This application utilizes a third-party API (Firebase), specifically tools such as FirebaseAuth, Firestore, and FirebaseStorage. Implemented features include: login and password validation, chats, profile creation, editing, and deletion."
