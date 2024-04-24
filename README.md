@@ -5,7 +5,8 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 
 ## <p align="center"> Projects 🧑‍💻
 
-- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "Something like a social network for players. The application implements the ability to register and login, chat with sending and receiving messages, the ability to create and edit your profile, as well as see the profiles of other players with the ability to start a new chat with them, as well as add them to favorites. When creating this application I resorted to the use of third-party library Firebase, to such tools as Firebase Auth, Firebase Firestore, Firebase Storage "
+- [TheGamerApp](https://github.com/kruchman/TheGamerApp): "
+SwiftUI, MVVM. This application utilizes a third-party API (Firebase), specifically tools such as FirebaseAuth, Firestore, and FirebaseStorage. Implemented features include: login and password validation, chats, profile creation, editing, and deletion."
 - 
   <p align="leading">
      <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="90" />
@@ -19,24 +20,25 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
   <img src="The Gamer App Content/TheGamerApp.gif" alt="TheGamerApp" width="90" height="200" />
 </p>
 
-- [Currency](https://github.com/kruchman/Currency): "Application for all the currencies convertation with the actual rate"
+- [Currency](https://github.com/kruchman/Currency): "
+SwiftUI, MVVM. An application for current currency exchange rates. Implemented logic for correct currency conversion and networking."
   <p align="center">
   <img src="Currency.gif2.gif" alt="Currency" width="150" />
 </p>
 
-- [Give me joke](https://github.com/kruchman/Give-me-joke): "An application where I am fetching the data (jokes) from the open API web site. Then I add a functionality where you can "like" some joke and save it using Core Data."
+- [Give me joke](https://github.com/kruchman/Give-me-joke): "UIKit, MVC. This application implements networking, specifically a GET request using async-await. Core Data is utilized for data management."
 
   <p align="center">
   <img src="GiveMeJoke.gif2.gif" alt="Give me joke" width="150" />
 </p>
 
-- [Guess The Animal](https://github.com/kruchman/Guess-The-Animal): "Simple App for the kids. You need to guess the animal wich appeare on the screen."
+- [Guess The Animal](https://github.com/kruchman/Guess-The-Animal): "The project is written in UIKit using the MVC architecture. Some business logic has been implemented to ensure the correct functioning of the application. Additionally, unit and UI tests have been written for this project."
 
   <p align="center">
   <img src="guessTheAnumalGif.gif" alt="GuessTheAnimal" width="150" />
 </p>
 
-- [Goal setter](https://github.com/kruchman/Goal-setter): "Application made using TableViews where you can create and set your goals having a list of them. Short term goals as well as long term goals. To devide long term goals on a little task and to see your progress with a progress bar. Also you can look at the goals you already achieved."
+- [Goal setter](https://github.com/kruchman/Goal-setter): "A typical ToDoApp written in UIKit using the MVC pattern, TableView, and Core Data for data management."
 
   <p align="center">
   <img src="GoalSetter.gif2.gif" alt="GoalSetter" width="150" />
