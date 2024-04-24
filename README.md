@@ -6,16 +6,12 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 ## <p align="center"> Contact me 👍
 
  <p>
-  <img src="phone.png" alt="Phone number" width="20" height="20" />
-  +506 8947 8828
+  <img src="WhatsApp.png" alt="WhatsApp" width="20" height="20" />
+  # +79111652326
 </p>
 <p>
   <img src="mail.png" alt="Mail" width="20" height="20" />
   kruchman@bk.ru, kruchman96@gmail.com
-</p>
-<p>
-  <img src="WhatsApp.png" alt="WhatsApp" width="20" height="20" />
-  +79111652326
 </p>
 <p>
   <img src="telegram.png" alt="Telegram" width="20" height="20" />
