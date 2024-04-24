@@ -14,9 +14,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
   <img src="The Gamer App Content/ProfileSetting2.png" alt="TheGamerApp" width="90" />
   <img src="The Gamer App Content/Profile.png" alt="TheGamerApp" width="90" />
   <img src="The Gamer App Content/UsersList.png" alt="TheGamerApp" width="90" />
-  <img src="The Gamer App Content/UserDetail.png" alt="TheGamerApp" width="90" />
   <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="90" />
-  <img src="The Gamer App Content/Favorites.png" alt="Favorites" width="90" />
   <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="90" />
 </p>
   
@@ -25,9 +23,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 </p>
 
 - [Currency](https://github.com/kruchman/Currency): "Application for all the currencies convertation with the actual rate"
-
-  <p align="center">
-  <img src="Currency.gif2.gif" alt="Currency" />
+  <img src="Currency.gif2.gif" alt="Currency" width="90" />
 </p>
 
 - [Give me joke](https://github.com/kruchman/Give-me-joke): "An application where I am fetching the data (jokes) from the open API web site. Then I add a functionality where you can "like" some joke and save it using Core Data."
