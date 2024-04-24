@@ -8,16 +8,16 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 - [TheGamerApp](https://github.com/kruchman/TheGamerApp): "Something like a social network for players. The application implements the ability to register and login, chat with sending and receiving messages, the ability to create and edit your profile, as well as see the profiles of other players with the ability to start a new chat with them, as well as add them to favorites. When creating this application I resorted to the use of third-party library Firebase, to such tools as Firebase Auth, Firebase Firestore, Firebase Storage "
 - 
   <p align="leading">
-     <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="100" />
-    <img src="The Gamer App Content/GameSelection.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/ProfileSetting1.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/ProfileSetting2.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/Profile.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/UsersList.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/UserDetail.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="100" />
-  <img src="The Gamer App Content/Favorites.png" alt="Favorites" width="100" />
-  <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="100" />
+     <img src="The Gamer App Content/FirstScreen.png" alt="TheGamerApp" width="90" />
+    <img src="The Gamer App Content/GameSelection.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/ProfileSetting1.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/ProfileSetting2.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/Profile.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/UsersList.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/UserDetail.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/Chat.png" alt="TheGamerApp" width="90" />
+  <img src="The Gamer App Content/Favorites.png" alt="Favorites" width="90" />
+  <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="90" />
 </p>
   
   <p align="center">
