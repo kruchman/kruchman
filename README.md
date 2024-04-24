@@ -26,7 +26,7 @@ My name is Iurii, Im from Russia, Saint-Petersburg. Commenced independent study 
 The application is developed using the SwiftUI framework and follows the MVVM architecture pattern. It features a list displaying classic cocktails with individual details. Users can navigate to a detailed view for each cocktail to obtain more information. Additionally, users can add cocktails to their "Favorites" list and remove them using Core Data. Firebase Firestore Database is used as the backend database. The application also allows users to create custom cocktails. Custom animations have been implemented to enhance the user experience. For sorting and filtering cocktails, the Combine framework is utilized."
 
 <p align="center">
-<img src="CocktailAppContent/classicCocktailsList.png" alt="TheCocktailApp" width="90" /> <gap>
+<img src="CocktailAppContent/classicCocktailsList.png" alt="TheCocktailApp" width="90" /> 
  <img src="CocktailAppContent/detailScreen.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/detailSecondScreen.png" alt="TheCocktailApp" width="90" />
  <img src="CocktailAppContent/customCocktailsList.png" alt="TheCocktailApp" width="90" />
