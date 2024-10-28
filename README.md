@@ -54,27 +54,3 @@ SwiftUI, MVVM. This application utilizes a third-party API (Firebase), specifica
   <img src="The Gamer App Content/FavoritesDetail.png" alt="FavoritesDetail" width="90" />
   <img src="The Gamer App Content/TheGamerApp.gif" alt="TheGamerApp" width="90" height="200" />
 </p>
-
-- [Currency](https://github.com/kruchman/Currency): "
-SwiftUI, MVVM. An application for current currency exchange rates. Implemented logic for correct currency conversion and networking."
-  <p align="center">
-  <img src="Currency.gif2.gif" alt="Currency" width="150" />
-</p>
-
-- [Give me joke](https://github.com/kruchman/Give-me-joke): "UIKit, MVC. This application implements networking, specifically a GET request using async-await. Core Data is utilized for data management."
-
-  <p align="center">
-  <img src="GiveMeJoke.gif2.gif" alt="Give me joke" width="150" />
-</p>
-
-- [Guess The Animal](https://github.com/kruchman/Guess-The-Animal): "The project is written in UIKit using the MVC architecture. Some business logic has been implemented to ensure the correct functioning of the application. Additionally, unit and UI tests have been written for this project."
-
-  <p align="center">
-  <img src="guessTheAnumalGif.gif" alt="GuessTheAnimal" width="150" />
-</p>
-
-- [Goal setter](https://github.com/kruchman/Goal-setter): "A typical ToDoApp written in UIKit using the MVC pattern, TableView, and Core Data for data management."
-
-  <p align="center">
-  <img src="GoalSetter.gif2.gif" alt="GoalSetter" width="150" />
-</p>
